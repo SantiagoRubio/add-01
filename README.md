@@ -1,12 +1,12 @@
 # add-01
 
 
-#GPIO
+## GPIO
 
-##Alumno: Santiago Rubio
+### Alumno: Santiago Rubio
 
-###Curso: 5to 2da avionica
+#### Curso: 5to 2da avionica
 
-###Materia: Adquision de datos
+#### Materia: Adquision de datos
 
 https://wokwi.com/projects/330031405284196948
